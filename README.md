@@ -1,4 +1,8 @@
 # Sewage sludge as substrate in _Schinus terebinthifolia_ Raddi seedlings commercial production
+
+**Rendered analysis report:**  
+[https://jmalonso55.github.io/substrate_fertilier_schinus/](https://jmalonso55.github.io/substrate_fertilier_schinus/)
+
 This repository contains data and partial analysis code associated with the paper entitled “Sewage Sludge as Substrate in _Schinus terebinthifolia_ Raddi Seedling Commercial Production,” published in Scientific Reports in October 2022 (Alonso et al., 2022; https://doi.org/10.1038/s41598-022-21314-0).
 
 # Paper Abstract
